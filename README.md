@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [firebase-push-notifications]()
 - [react-native-user-profile](modules/user-profile)
 - [react-native-maps](modules/maps)
+- [payments]()
 
 # Getting started: Frontend
 
